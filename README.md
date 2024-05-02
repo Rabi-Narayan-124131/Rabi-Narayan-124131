@@ -5,6 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Rabi Narayan Sahoo; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
+<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+
 <img align="right" alt="Web Developer" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabi-narayan-124131&label=Profile%20views&color=0e75b6&style=flat" alt="rabi-narayan-124131" /> </p>
